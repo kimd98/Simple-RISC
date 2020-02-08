@@ -1,1 +1,1 @@
-# lenaSimpleRISC
+# Simple RISC Machine
