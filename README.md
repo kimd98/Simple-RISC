@@ -7,3 +7,5 @@ The two key additions are made to the data path: One, a finite state machine con
 The interface has been extended to memory to enable communication with the outside world using memory mapped I/O. The user can read the values input on the slider switches using the LDR instruction and output a value to the red LEDs using the STR instruction.
 
 Finally, to make the Simple RISC Machine "Turing complete", which means a program can be written to implement any algorithm that can run within the 256 word memory, two types of branch instructions were added.
+
+*UBC CPEN211 (Lab partner: Ken Johnson)
