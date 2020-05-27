@@ -8,4 +8,4 @@ The interface has been extended to memory to enable communication with the outsi
 
 Finally, to make the Simple RISC Machine "Turing complete", which means a program can be written to implement any algorithm that can run within the 256 word memory, two types of branch instructions were added.
 
-*UBC CPEN211 (Lab partner: Ken Johnson)
+*UBC CPEN211 (Lena Kim, Ken Johnson)
